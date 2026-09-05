@@ -1,0 +1,3 @@
+/home/ko4ugov/test/cmaked/CMakeFiles/hello.dir
+/home/ko4ugov/test/cmaked/CMakeFiles/edit_cache.dir
+/home/ko4ugov/test/cmaked/CMakeFiles/rebuild_cache.dir
